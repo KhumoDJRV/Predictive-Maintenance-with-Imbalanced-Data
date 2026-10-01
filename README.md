@@ -30,7 +30,6 @@ Runs in about a minute on a laptop CPU, seed fixed to 42.
 ![Confusion Matrix](results/fig_confusion_matrix.png)
 ![Permutation Importance](results/fig_permutation_importance.png)
 ![PR Curves](results/fig_pr_curves.png)
-See `results/` (`model_comparison.csv`, figures, `false_negatives.csv`). Paste the final table here after running.
 
 ## AI assistance
 Claude version Sonnet 5 was used to generate the code files.
