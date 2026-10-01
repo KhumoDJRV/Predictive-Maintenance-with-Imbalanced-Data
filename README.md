@@ -30,4 +30,4 @@ Runs in about a minute on a laptop CPU, seed fixed to 42.
 See `results/` (`model_comparison.csv`, figures, `false_negatives.csv`). Paste the final table here after running.
 
 ## AI assistance
-State here which tools helped and how (see report AI-use statement).
+Claude version Sonnet 5 was used to generate the code files.
