@@ -13,7 +13,6 @@ Download `ai4i2020.csv` from the UCI page and put it at `data/ai4i2020.csv`. (Th
 
 ## Setup and run
 ```
-python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python run_experiments.py --data data/ai4i2020.csv --out results
 ```
@@ -27,6 +26,10 @@ Runs in about a minute on a laptop CPU, seed fixed to 42.
 - Metrics: PR AUC, failure recall, precision, F1, confusion matrix.
 
 ## Results
+![Class Balance](results/fig_class_balance.png)
+![Confusion Matrix](results/fig_confusion_matrix.png)
+![Permutation Importance](results/fig_permutation_importance.png)
+![PR Curves](results/fig_pr_curves.png)
 See `results/` (`model_comparison.csv`, figures, `false_negatives.csv`). Paste the final table here after running.
 
 ## AI assistance
