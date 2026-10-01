@@ -1,0 +1,9 @@
+{
+  "python": "3.13.7",
+  "sklearn": "1.8.0",
+  "pandas": "3.0.3",
+  "numpy": "2.3.5",
+  "seed": 42,
+  "cpu": "AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD",
+  "runtime_sec": 13.0
+}

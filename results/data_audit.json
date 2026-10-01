@@ -1,0 +1,13 @@
+{
+  "rows": 10000,
+  "missing_values": 0,
+  "duplicate_rows_excl_ids": 0,
+  "failures": 339,
+  "failure_rate_pct": 3.39,
+  "mode_TWF": 46,
+  "mode_HDF": 115,
+  "mode_PWF": 95,
+  "mode_OSF": 98,
+  "mode_RNF": 19,
+  "failure_without_any_mode_flag": 9
+}

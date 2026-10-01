@@ -1,0 +1,14 @@
+{
+  "train": {
+    "n": 6000,
+    "failures": 203
+  },
+  "val": {
+    "n": 2000,
+    "failures": 68
+  },
+  "test": {
+    "n": 2000,
+    "failures": 68
+  }
+}
